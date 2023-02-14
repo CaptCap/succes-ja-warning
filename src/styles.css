@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'MyFont';
+    src: url('../src/assets/Monoton-Regular.ttf');
+  }
+h1{
+    font-family: 'MyFont';
+}
+strong{
+    font-family: 'MyFont';
+    
+}
+
+app-root{
+    display: flex;
+    justify-content: center;
+    
+    
+    
+   
+}
+app-succes-alert{
+    padding-right: 0.5rem;
+}
